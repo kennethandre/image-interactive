@@ -1,4 +1,4 @@
-ImageMapPro.init("#image-map-alara", {
+ImageMapPro.init("#image-map-pro", {
   id: "cf94def8-b724-419d-b86e-9a01fb5495b2",
   general: { ui_theme: "dark", name: "Untitled" },
   object_list: {
@@ -59,6 +59,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "7475174f-a95e-4472-afb7-881680786212",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "20b5aa86-5f33-4723-b932-bd729f82f89f",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 61.607727570399476,
           points: [
@@ -139,6 +143,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "7475174f-a95e-4472-afb7-881680786212",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "d1930c62-63ed-4c9c-9f69-a5cb500ef33d",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 61.607727570399476,
           points: [
@@ -219,6 +227,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "7475174f-a95e-4472-afb7-881680786212",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "2a522b83-b87c-46eb-9343-c130be44e3a0",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 61.607727570399476,
           points: [
@@ -298,6 +310,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "7475174f-a95e-4472-afb7-881680786212",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "97e8f251-ef56-4494-961d-80741c3cde27",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 61.607727570399476,
           points: [
@@ -377,6 +393,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "7475174f-a95e-4472-afb7-881680786212",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "dcb900b0-6db2-4b66-b766-8ddbcbcb740b",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 61.607727570399476,
           points: [
@@ -456,6 +476,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "7475174f-a95e-4472-afb7-881680786212",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "94dfffda-ee88-4a55-a97d-328b8dbc658f",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 61.607727570399476,
           points: [
@@ -535,6 +559,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "7475174f-a95e-4472-afb7-881680786212",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "4b5a34fa-068a-48e6-83e3-2869acaa30df",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 61.607727570399476,
           points: [
@@ -614,6 +642,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "7475174f-a95e-4472-afb7-881680786212",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "b4f36b9e-ed0d-4a38-8d9b-d20344a132dd",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 61.607727570399476,
           points: [
@@ -693,6 +725,10 @@ ImageMapPro.init("#image-map-alara", {
               id: "8855c9e1-dd51-42be-a023-6a980344412d",
             },
           ],
+          actions: {
+            click: "change-artboard",
+            artboard: "91e37317-8eb3-4047-9210-c89a27023041",
+          },
           x_image_background: 30.157170923379173,
           y_image_background: 68.74590700720367,
           points: [
