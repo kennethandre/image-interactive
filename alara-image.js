@@ -1,4 +1,4 @@
-ImageMapPro.init("#image-map-pro", {
+ImageMapPro.init("#image-map-alara", {
   id: "cf94def8-b724-419d-b86e-9a01fb5495b2",
   general: { ui_theme: "dark", name: "Untitled" },
   object_list: {
