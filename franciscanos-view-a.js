@@ -1,4 +1,4 @@
-ImageMapPro.init("#image-map-franciscanos", {
+ImageMapPro.init("#image-map-pro", {
   id: "f2ea92d3-a234-4f8f-8d1a-d33a461476cf",
   general: { name: "Los Franciscanos ", ui_theme: "dark" },
   object_list: {
@@ -684,6 +684,9 @@ ImageMapPro.init("#image-map-franciscanos", {
       background_type: "image",
       image_url:
         "https://wokonik.s3.amazonaws.com/npunto/los-franciscanos/casas/Casa+Santa+Clara+B/SANTA+CLARA+B.jpg",
+      width: 1080,
+      height: 1080,
+      use_image_size: true,
     },
     {
       id: "8cbcfe37-949a-463a-a6f8-b02e5ff600bb",
