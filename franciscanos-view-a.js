@@ -1,4 +1,4 @@
-ImageMapPro.init("#image-map-pro", {
+ImageMapPro.init("#image-map-franciscanos", {
   id: "f2ea92d3-a234-4f8f-8d1a-d33a461476cf",
   general: { name: "Los Franciscanos ", ui_theme: "dark" },
   object_list: {
