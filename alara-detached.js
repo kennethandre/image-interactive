@@ -1060,7 +1060,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 18.316962161560657,
           y_image_background: 35.82405535005321,
@@ -1123,7 +1123,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cipres",
+            link: "https://www.alaraapartamentos.com/projects/cipres",
           },
           x_image_background: 6.922070216570482,
           y_image_background: 35.82405535005321,
@@ -1188,7 +1188,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 8.592011277474214,
           y_image_background: 50.95175672529879,
@@ -1249,7 +1249,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 8.49377945036223,
           y_image_background: 68.1750704122667,
@@ -1310,7 +1310,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 17.285527976884822,
           y_image_background: 71.0565373408849,
@@ -1371,7 +1371,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 33.49377945036223,
           y_image_background: 70.00873118502375,
@@ -1434,7 +1434,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 33.44466353680623,
           y_image_background: 54.94651769451948,
@@ -1497,7 +1497,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/arce",
+            link: "https://www.alaraapartamentos.com/projects/arce",
           },
           x_image_background: 21.505403050270903,
           y_image_background: 56.84239275719344,
@@ -1574,7 +1574,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -1635,7 +1635,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -1698,7 +1698,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -1761,7 +1761,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -1822,7 +1822,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -1883,7 +1883,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -1946,7 +1946,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -2009,7 +2009,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -2084,7 +2084,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -2145,7 +2145,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -2208,7 +2208,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -2271,7 +2271,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -2332,7 +2332,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -2393,7 +2393,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -2456,7 +2456,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -2519,7 +2519,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -2594,7 +2594,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -2655,7 +2655,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -2718,7 +2718,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -2781,7 +2781,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -2842,7 +2842,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -2903,7 +2903,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -2966,7 +2966,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -3029,7 +3029,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -3104,7 +3104,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -3165,7 +3165,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -3228,7 +3228,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -3291,7 +3291,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -3352,7 +3352,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -3413,7 +3413,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -3476,7 +3476,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -3539,7 +3539,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -3614,7 +3614,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -3675,7 +3675,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -3738,7 +3738,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -3801,7 +3801,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -3862,7 +3862,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -3923,7 +3923,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -3986,7 +3986,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -4049,7 +4049,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -4124,7 +4124,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -4185,7 +4185,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -4248,7 +4248,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -4311,7 +4311,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -4372,7 +4372,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -4433,7 +4433,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -4496,7 +4496,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -4559,7 +4559,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -4634,7 +4634,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -4695,7 +4695,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -4758,7 +4758,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -4821,7 +4821,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -4882,7 +4882,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -4943,7 +4943,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -5006,7 +5006,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -5069,7 +5069,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -5144,7 +5144,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -5205,7 +5205,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -5268,7 +5268,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -5331,7 +5331,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -5392,7 +5392,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -5453,7 +5453,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -5516,7 +5516,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -5579,7 +5579,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -5654,7 +5654,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -5715,7 +5715,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -5778,7 +5778,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -5841,7 +5841,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -5902,7 +5902,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -5963,7 +5963,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -6026,7 +6026,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -6089,7 +6089,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -6164,7 +6164,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -6225,7 +6225,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -6288,7 +6288,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -6351,7 +6351,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -6412,7 +6412,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -6473,7 +6473,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -6536,7 +6536,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -6599,7 +6599,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
@@ -6674,7 +6674,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/olmo",
+            link: "https://www.alaraapartamentos.com/projects/olmo",
           },
           x_image_background: 41.74852652259332,
           y_image_background: 42.56712508185986,
@@ -6735,7 +6735,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.63654223968565,
           y_image_background: 38.768827766863126,
@@ -6798,7 +6798,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 64.73477406679764,
           y_image_background: 67.71447282252782,
@@ -6861,7 +6861,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 33.79174852652259,
           y_image_background: 69.9410609037328,
@@ -6922,7 +6922,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.699410609037326,
           y_image_background: 64.44007858546169,
@@ -6983,7 +6983,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/cedro",
+            link: "https://www.alaraapartamentos.com/projects/cedro",
           },
           x_image_background: 16.797642436149314,
           y_image_background: 31.43418467583497,
@@ -7046,7 +7046,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 13.654223968565816,
           y_image_background: 2.357563850687623,
@@ -7109,7 +7109,7 @@ ImageMapPro.init("#image-map-alara", {
           ],
           actions: {
             click: "follow-link",
-            link: "https://alara-guatemala.webflow.io/projects/sauce",
+            link: "https://www.alaraapartamentos.com/projects/sauce",
           },
           x_image_background: 35.46168958742633,
           y_image_background: 2.357563850687623,
